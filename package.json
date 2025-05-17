@@ -1,7 +1,7 @@
 {
   "author": "aamirnazeer",
   "description": "set of expressjs middlewares for reusability",
-  "name": "aamirnazeer/expressjs-middlewares",
+  "name": "expressjs-middlewares",
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
